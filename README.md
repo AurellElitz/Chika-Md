@@ -91,9 +91,6 @@ global.sessionName = 'ᴀᴜʀᴇʟ'
 
 ----------
 
-<p align="center">
-  <a href="-"><img src="-" />
-</p>
 
 ## Donate
 - [Dana](https://wa.me/6283126555608?text=Bang+mau+donasi)
