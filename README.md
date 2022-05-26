@@ -102,11 +102,9 @@ global.sessionName = 'ᴀᴜʀᴇʟ'
 # Official Group
 - [Group 1](-)
 - [Group 2](-)
-- [Group 3](https://chat.whatsapp.com/LQO7wLJ5SY0E5fPsa7jaL8)
+- [Group 3](-)
 
 # Thanks to
-- [Dika](https://github.com/DikaArdnt) <br> 
-- [Fatih](https://github.com/FatihArridho) <br> 
-- [Zeeone](https://github.com/zeeone-ofc) <br> 
-- [Yoga](https://github.com/YogGanz) <br> 
-- [Riy](https://github.com/riychdwayne) <br> 
+- [ᴀᴜʀᴇʟ] <br> 
+- [ʀɪʏ] <br>
+- [ᴀᴜʀᴇʟ ʙᴏᴛ] <br> 
