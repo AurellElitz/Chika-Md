@@ -92,7 +92,7 @@ global.sessionName = 'ᴀᴜʀᴇʟ'
 ----------
 
 <p align="center">
-  <a href="-"><img src="https://telegra.ph/file/4e8679b0d4677be9a2995.jpg" />
+  <a href="-"><img src="-" />
 </p>
 
 ## Donate
